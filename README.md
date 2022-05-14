@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mstcheung3
+- 👀 I’m interested in data analytics mainly in the financial service industry.
+- 🌱 I’m currently learning SQL and advanced analytics method with Python
+- 📫 How to reach me through email at matthew.st.cheung@gmail.com
